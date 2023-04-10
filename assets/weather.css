@@ -1,0 +1,26 @@
+body{
+
+    background-color: aqua;
+}
+
+
+.navCustom{
+
+    width: 100% !important;
+   
+    font-size: 80px !important;
+}
+
+.subheader {
+
+    width: 100% !important;
+}
+
+
+.custom{
+
+    background-color:rgb(255, 240, 80)!important;
+    border: black 2px solid;
+    border-radius: 3px;
+    box-shadow: 4px 4px 6px grey;
+}
