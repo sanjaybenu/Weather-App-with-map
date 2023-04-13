@@ -1,13 +1,13 @@
-body{
+body {
 
     background-color: aqua;
 }
 
 
-.navCustom{
+.navCustom {
 
     width: 100% !important;
-   
+
     font-size: 80px !important;
 }
 
@@ -17,10 +17,14 @@ body{
 }
 
 
-.custom{
+.custom {
 
-    background-color:rgb(255, 240, 80)!important;
+    background-color: rgb(255, 240, 80) !important;
     border: black 2px solid;
     border-radius: 3px;
     box-shadow: 4px 4px 6px grey;
+}
+
+.placeholder::-webkit-input-placeholder {
+    color: #f75865
 }
